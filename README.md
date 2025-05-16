@@ -1,9 +1,6 @@
-# Telecom-Churn-and-Risk-Analysis
-Data visualization project analyzing customer churn patterns at PhoneNow Telecom. Identifies key risk factors and provides retention strategies that helped protect $4.3M in annual revenue.
-
 # 📊 Telecom Customer Churn Analysis: Data Visualization for Retention Strategy
 
-This repository houses key files and documentation for the **PhoneNow Telecom Customer Retention Project**.
+This repository houses key files and documentation for the **PhoneNow Telecom Customer Retention Project**. A data visualization project analyzing customer churn patterns at PhoneNow Telecom. Identifies key risk factors and provides retention strategies that helped protect $4.3M in annual revenue..
 
 🔗 **Read the full report on Medium:**
 [**Data-Driven Customer Retention: The Churn Analysis Project That Saved \$4.3M**](https://medium.com/@UjuEmmanuella/data-driven-customer-retention-the-churn-analysis-project-that-saved-4-3m-a0078fa8518d)
@@ -94,4 +91,12 @@ PhoneNow Telecom was facing:
 * 📊 **View and Interact with my dashboard:**
   👉 [here](https://app.powerbi.com/view?r=eyJrIjoiYzA4NjFiOGEtNGFlMy00NDIzLTgzYTktYWMyYzVlOWU3YThjIiwidCI6IjE0ODkzNGNiLWQyMDgtNGU1Ny1hNGNkLWE2YTY2YWIyMDgwMCJ9&pageName=67a1b444e0bbc70a10d4)
 
+---
 
+<h3>📊 Gender Inclusion and Diversity Dashboards</h3>
+
+<p float="left">
+  <img src="./Dashboard%20Images/Churn%20Dashboard.png" width="45%" />
+  &nbsp;
+  <img src="./Dashboard%20Images/Risk%20Analysis.png" width="45%" />
+</p>
