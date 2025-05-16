@@ -1,6 +1,6 @@
 # 📊 Telecom Customer Churn Analysis: Data Visualization for Retention Strategy
 
-This repository houses key files and documentation for the **PhoneNow Telecom Customer Retention Project**. A data visualization project analyzing customer churn patterns at PhoneNow Telecom. Identifies key risk factors and provides retention strategies that helped protect $4.3M in annual revenue..
+This repository houses key files and documentation for the **PhoneNow Telecom Customer Retention Project** using PowerBI. A data visualization project analyzing customer churn patterns at PhoneNow Telecom. Identifies key risk factors and provides retention strategies that helped protect $4.3M in annual revenue.
 
 🔗 **Read the full report on Medium:**
 [**Data-Driven Customer Retention: The Churn Analysis Project That Saved \$4.3M**](https://medium.com/@UjuEmmanuella/data-driven-customer-retention-the-churn-analysis-project-that-saved-4-3m-a0078fa8518d)
